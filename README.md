@@ -5,6 +5,9 @@
 > jupyter@domo.com
 
 ## AI Services
+## Domo AI Pro Operations & Processing
+> Domo AI Pro operations and processing will consume credits as described on [Domo’s online consumption terms](https://www.domo.com/consumption-terms). Please see the credit rate card in your Domo instance for more information. (Admin > Company Settings > Credit Utilization > Rate Card)
+
 * [Text Generation](ai-services/text-generation/README.md)
 * [Text-Summarization](ai-services/text-summarization/README.md)
 * [Text-to-SQL](ai-services/text-to-sql/README.md)

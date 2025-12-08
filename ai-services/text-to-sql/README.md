@@ -1,5 +1,8 @@
 ```The files in these examples are read only. To execute the files you will need to copy + paste the code, or download the files and upload them into your workspace.```
 
+## Domo AI Pro Operations & Processing
+> Domo AI Pro operations and processing will consume credits as described on [Domo’s online consumption terms](https://www.domo.com/consumption-terms). Please see the credit rate card in your Domo instance for more information. (Admin > Company Settings > Credit Utilization > Rate Card)
+
 # Use the AI Service "Text-to-SQL" in Jupyter
 
 Example of using Text-to-SQL in Jupyter
